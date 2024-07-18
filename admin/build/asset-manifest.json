@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5c07a0d8.chunk.css",
+    "main.js": "./static/js/main.0147102b.chunk.js",
+    "main.js.map": "./static/js/main.0147102b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6b5d1a2a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6b5d1a2a.js.map",
+    "static/css/2.903596ff.chunk.css": "./static/css/2.903596ff.chunk.css",
+    "static/js/2.7c5a1390.chunk.js": "./static/js/2.7c5a1390.chunk.js",
+    "static/js/2.7c5a1390.chunk.js.map": "./static/js/2.7c5a1390.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.52cd750bd236250634b3ebfec698e45d.js": "./precache-manifest.52cd750bd236250634b3ebfec698e45d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.903596ff.chunk.css.map": "./static/css/2.903596ff.chunk.css.map",
+    "static/css/main.5c07a0d8.chunk.css.map": "./static/css/main.5c07a0d8.chunk.css.map",
+    "static/js/2.7c5a1390.chunk.js.LICENSE.txt": "./static/js/2.7c5a1390.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/weathericons-regular-webfont.f5b0d0d9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b5d1a2a.js",
+    "static/css/2.903596ff.chunk.css",
+    "static/js/2.7c5a1390.chunk.js",
+    "static/css/main.5c07a0d8.chunk.css",
+    "static/js/main.0147102b.chunk.js"
+  ]
+}
